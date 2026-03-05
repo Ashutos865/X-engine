@@ -3,7 +3,7 @@ name: NarrativeOS Telegram Sync
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch:
+  workflow_dispatch:   # Allows manual trigger
 
 jobs:
   scrape:
@@ -11,24 +11,41 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Install Deps
-        run: pip install aiohttp beautifulsoup4 pandas openpyxl
+      - name: Install Dependencies
+        run: |
+          pip install aiohttp beautifulsoup4 pandas openpyxl
 
       - name: Run TG Scraper
-        run: python scrape_telegram.py
-
-      - name: Push Data
+        # UPDATED: Matches your local filename
+        run: python telegram_scraper_fixed.py
+      
+      - name: Commit and Push Data
         run: |
           git config --global user.name "NarrativeOS-Bot"
           git config --global user.email "bot@narrativeos.ai"
+          
+          # Sync with remote to avoid push collisions
           git stash
           git pull origin main --rebase
-          git stash pop || echo "Clean"
+          git stash pop || echo "No local changes to pop"
+          
+          # Add the updated data and cache
           git add raw_intel.json seen_tg_links.json
-          git commit -m "TG Intel Update: $(date +'%Y-%m-%d %H:%M')" || exit 0
-          git push origin main
+          
+          # Only commit if there are actual changes
+          if git diff --staged --quiet; then
+            echo "No new intelligence data found."
+          else
+            git commit -m "TG Intel Update: $(date +'%Y-%m-%d %H:%M')"
+            git push origin main
+          fi

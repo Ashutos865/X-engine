@@ -192,7 +192,7 @@ async def main():
         # Combine and Keep newest
         combined = all_new_intel + db
         # Final sort by timestamp
-        combined.sort(key=lambda x: x['timestamp'] or '1970-01-01', reverse=True)
+        combined.sort(key=lambda x: x.get('timestamp') or "", reverse=True)
         db = combined[:MAX_STORAGE_LIMIT]
         
         with open(OUTPUT_FILE, "w", encoding='utf-8') as f:
