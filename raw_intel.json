@@ -1,6 +1,986 @@
 [
     {
         "source": "TG/@AMK_Mapping",
+        "content": "Hezbollah has issued a statement on the Israeli airborne insertion attempt into eastern Lebanon. According to them, 4 Israeli helicopters were detected entering Lebanese airspace from the direction of Syria, which then dropped an infantry force near Khraibeh which then advanced towards the town of Nabi Chit. The infantry force reached the cemetery, where it clashed with a group of Hezbollah fighters, which quickly escalated, forcing Israel to carry out approximately 40 airstrikes with fighter jets and helicopters to provide cover for the withdrawal force. In turn, Hezbollah carried out rocket strikes on the area of fighting and the route of the Israeli withdrawal after the failed entry into Nabi Chit, while residents of nearby villages also fired on the Israeli soldiers. Notably, Hezbollah did not report any Israeli casualties and did not claim that any Israeli helicopters were shot down.",
+        "link": "https://t.me/AMK_Mapping/25664",
+        "timestamp": "2026-03-07T02:28:37+00:00",
+        "human_time": "0m ago"
+    },
+    {
+        "source": "TG/@Kyiv_Alert",
+        "content": "🟢 Відбій повітряної тривоги!",
+        "link": "https://t.me/kyiv_alert/7337",
+        "timestamp": "2026-03-07T02:26:12+00:00",
+        "human_time": "3m ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇱🇧 🇮🇱 ⚡️ - \"Shortly… details of what happened in the town of Al-Nabi Shayt.\" - Hezbollah.",
+        "link": "https://t.me/rnintel/55354",
+        "timestamp": "2026-03-07T02:25:06+00:00",
+        "human_time": "4m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇱🇧 ⚔️ 🇮🇱 Hezbollah statement: ⭕️ Soon... Details of what happened in the town of Nabi Sheet 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176063",
+        "timestamp": "2026-03-07T02:25:02+00:00",
+        "human_time": "3m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🚨 🇺🇸 A C-17 medevac flight from the Middle East landed at Joint Base Andrews tonight. Three Walter Reed ambulances and a police escort rushed the wounded to Bethesda. These are likely the first injured American soldiers from the Iran war arriving home for treatment. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176062",
+        "timestamp": "2026-03-07T02:23:26+00:00",
+        "human_time": "5m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "A Russian Iskander-M ballistic missile strike on a high-rise residential building in Kharkiv City has killed 1 civilian and wounded 10 others, including 3 children. 10 other people are trapped under the rubble.",
+        "link": "https://t.me/AMK_Mapping/25662",
+        "timestamp": "2026-03-07T02:22:28+00:00",
+        "human_time": "6m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "🇱🇧 🇸🇾 Radio traffic heard in the highlighted region.",
+        "link": "https://t.me/AMK_Mapping/25661",
+        "timestamp": "2026-03-07T02:20:47+00:00",
+        "human_time": "8m ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇺🇸 🇮🇱 ⚡️ - The U.S. Department of State approved a $151.8 million deal to sell 12,000 BLU-110 1,000-pound bombs to Israel. Secretary of State Marco Rubio determined that an emergency exists requiring the immediate sale of the bombs to Israel, bypassing any Congressional approval.",
+        "link": "https://t.me/rnintel/55353",
+        "timestamp": "2026-03-07T02:19:40+00:00",
+        "human_time": "9m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The Lebanese Ministry of Health reports that 3 people were killed and 17 others injured in Israeli airstrikes on Nabi Chit, eastern Lebanon.",
+        "link": "https://t.me/AMK_Mapping/25660",
+        "timestamp": "2026-03-07T02:17:46+00:00",
+        "human_time": "11m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Israeli fighter jets have been circling over Dara'a governorate, southern Syria, for over an hour now.",
+        "link": "https://t.me/AMK_Mapping/25659",
+        "timestamp": "2026-03-07T02:15:53+00:00",
+        "human_time": "13m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "An explosion was heard at Dubai International Airport in the UAE.",
+        "link": "https://t.me/AMK_Mapping/25658",
+        "timestamp": "2026-03-07T02:14:19+00:00",
+        "human_time": "14m ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇱🇧 🇱🇧 🇮🇱 ⚡️ — Security sources told MTV Lebanon that clashes have subsided in Nabi Sheet, Bekaa Valley, but Israeli aircraft are still flying over the town.",
+        "link": "https://t.me/tabzlive/72503",
+        "timestamp": "2026-03-07T02:12:03+00:00",
+        "human_time": "16m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The Kalibrs disappeared in southern Vinnytsia Oblast.",
+        "link": "https://t.me/AMK_Mapping/25657",
+        "timestamp": "2026-03-07T02:11:38+00:00",
+        "human_time": "17m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "A high-rise residential building has been destroyed in Kharkiv City after a Russian Iskander-M ballistic missile strike. There are people under the rubble... More info later",
+        "link": "https://t.me/AMK_Mapping/25656",
+        "timestamp": "2026-03-07T02:11:14+00:00",
+        "human_time": "17m ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "— ❗️ 🇮🇷 / 🇺🇸 / 🇯🇴 BREAKING: Visual confirmation of the destruction of the third AN/TPY-2 THAAD radar by Iran, in Muwaffaq As-Salti Airbase in Jordan Two other AN/TPY-2 radars were already confirmed to be destroyed; one in Saudi Arabia and one in the UAE. @Middle_East_Spectator",
+        "link": "https://t.me/tabzlive/72502",
+        "timestamp": "2026-03-07T02:08:48+00:00",
+        "human_time": "20m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "— ❗️ 🇮🇷 / 🇺🇸 / 🇯🇴 BREAKING: Visual confirmation of the destruction of the third AN/TPY-2 THAAD radar by Iran, in Muwaffaq As-Salti Airbase in Jordan Two other AN/TPY-2 radars were already confirmed to be destroyed; one in Qatar and one in the UAE. @Middle_East_Spectator",
+        "link": "https://t.me/AMK_Mapping/25655",
+        "timestamp": "2026-03-07T02:06:34+00:00",
+        "human_time": "22m ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇱🇧 🇮🇱 ⚡️ - \"Shortly… details of what happened in the town of Al-Nabi Shayt.\" - Hezbollah.",
+        "link": "https://t.me/rnintel/55352",
+        "timestamp": "2026-03-07T02:06:08+00:00",
+        "human_time": "23m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The Kalibrs have changed course to the west again, flying towards Bershad, Vinnytsia Oblast.",
+        "link": "https://t.me/AMK_Mapping/25654",
+        "timestamp": "2026-03-07T02:06:08+00:00",
+        "human_time": "23m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇱🇧 ⚔️ 🇮🇱 Hezbollah statement: ⭕️ Soon... Details of what happened in the town of Nabi Sheet 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176060",
+        "timestamp": "2026-03-07T02:04:29+00:00",
+        "human_time": "24m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The Kalibrs are turning towards Uman. They will likely target the Ladyzhyn TPP in Vinnytsia Oblast. Altitude: 100 metres.",
+        "link": "https://t.me/AMK_Mapping/25653",
+        "timestamp": "2026-03-07T02:04:08+00:00",
+        "human_time": "25m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The Kalibrs are still repeating the course of the previous missiles. Soon they will reach Vinnytsia Oblast.",
+        "link": "https://t.me/AMK_Mapping/25652",
+        "timestamp": "2026-03-07T02:02:39+00:00",
+        "human_time": "26m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "A high-rise residential building has been destroyed in Kharkiv City after a Russian Iskander-M ballistic missile strike. There are people under the rubble... More info later",
+        "link": "https://t.me/AMK_Mapping/25651",
+        "timestamp": "2026-03-07T02:00:51+00:00",
+        "human_time": "28m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇨🇳 🤝 🇮🇷 Chinese citizens kept calling the Iranian Embassy in Beijing trying to donate money. So many calls that the embassy had to issue a formal statement: \"We thank the Chinese people for their righteous support. Financial assistance will not be accepted at this time.\" Love to see it. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176059",
+        "timestamp": "2026-03-07T01:59:02+00:00",
+        "human_time": "29m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🚨 🇺🇸 🇮🇱 The State Department has approved a $151.8 million emergency sale of ammunition to Israel, bypassing Congress entirely. The sale includes 12,000 BLU-110A/B general purpose 1,000-pound bomb bodies. Rubio declared an \"emergency\" requiring immediate sale, waiving congressional review requirements under the Arms Export Control Act. This is on top of the $4 billion Rubio already fast-tracked. And on top of the $12 billion in total arms sales approved since Trump took office. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176058",
+        "timestamp": "2026-03-07T01:57:56+00:00",
+        "human_time": "31m ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇮🇷 🇮🇱 ⚡️ - Iranian ballistic missile launches to Israel.",
+        "link": "https://t.me/rnintel/55351",
+        "timestamp": "2026-03-07T01:57:42+00:00",
+        "human_time": "31m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "3 pairs of Kalibrs entered Kirovohrad Oblast, flying towards Novoukrainka.",
+        "link": "https://t.me/AMK_Mapping/25650",
+        "timestamp": "2026-03-07T01:57:01+00:00",
+        "human_time": "32m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇸🇦 🇮🇷 The Saudi Defense Minister: We hope that the Iranian side will prevail with wisdom and refrain from making wrong calculations. Iranian attacks do not serve the interests of regional security and stability. We have expressed our hope that the Iranian side will prevail with wisdom and common sense, and refrain from making wrong calculations. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176057",
+        "timestamp": "2026-03-07T01:56:19+00:00",
+        "human_time": "32m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 ⚔️ 🇺🇦 Second wave of Kalibr cruise missiles entered Ukrainian airspace. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176056",
+        "timestamp": "2026-03-07T01:55:49+00:00",
+        "human_time": "33m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "3 pairs of Kalibrs are repeating the course of the previous missiles, flying northwest towards Novoukrainka, Kirovohrad Oblast.",
+        "link": "https://t.me/AMK_Mapping/25649",
+        "timestamp": "2026-03-07T01:55:44+00:00",
+        "human_time": "33m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "3 pairs of Kalibrs are repeating the course of the previous missiles, flying northwest towards Novoukrainka, Kirovohrad Oblast.",
+        "link": "https://t.me/AMK_Mapping/25648",
+        "timestamp": "2026-03-07T01:54:53+00:00",
+        "human_time": "34m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Rocket alerts in northern Israel",
+        "link": "https://t.me/AMK_Mapping/25647",
+        "timestamp": "2026-03-07T01:54:06+00:00",
+        "human_time": "35m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Also, the reports of ballistic missile launches from Iran are likely false. I don't know where people are getting this information from.",
+        "link": "https://t.me/AMK_Mapping/25646",
+        "timestamp": "2026-03-07T01:53:04+00:00",
+        "human_time": "36m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "At least two pairs of Kalibrs flew past Nova Kakhovka, Kherson Oblast, towards Snihurivka, Mykolaiv Oblast. (I've had to change the colour of the missile icons so you can actually see them over the previous paths, but these ARE Kalibrs)",
+        "link": "https://t.me/AMK_Mapping/25645",
+        "timestamp": "2026-03-07T01:52:43+00:00",
+        "human_time": "36m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇺🇸 🇯🇴 Destroyed AN/TPY-2 Radar at Muwaffaq Salti Air Base in Jordan. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176054",
+        "timestamp": "2026-03-07T01:52:06+00:00",
+        "human_time": "36m ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇮🇷 🇮🇱 ⚡️ - Iranian ballistic missile launches to Israel.",
+        "link": "https://t.me/rnintel/55350",
+        "timestamp": "2026-03-07T01:49:05+00:00",
+        "human_time": "40m ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇱🇧 ❌ 🇮🇱 — Rocket alert in Kfar Yuval, Galilee Panhandle, northern Israel.",
+        "link": "https://t.me/tabzlive/72500",
+        "timestamp": "2026-03-07T01:49:02+00:00",
+        "human_time": "39m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🚢 🇺🇸 The USS Gerald Ford has entered the Red Sea through the Suez Canal. The USS George H.W. Bush just finished pre-deployment certification and is ready to deploy from Virginia. → USS Abraham Lincoln — Arabian Sea/Persian Gulf → USS Gerald Ford — Red Sea → USS George H.W. Bush — ready to surge 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176053",
+        "timestamp": "2026-03-07T01:48:26+00:00",
+        "human_time": "40m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Guess I was wrong. New Kalibrs are detected in Kherson Oblast.",
+        "link": "https://t.me/AMK_Mapping/25644",
+        "timestamp": "2026-03-07T01:47:56+00:00",
+        "human_time": "41m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "At least 3 Israeli airstrikes targeted the town of Khraibeh, eastern Lebanon. This is very close to Nabi Chit, where the IDF attempted an airborne operation earlier.",
+        "link": "https://t.me/AMK_Mapping/25643",
+        "timestamp": "2026-03-07T01:47:39+00:00",
+        "human_time": "41m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇶 🇺🇸 🇬🇧 Video obtained by Naya shows American and British oil companies fleeing the Burjussia complex in Basra under cover of darkness. This is the same facility that was just hit by a suicide drone. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176052",
+        "timestamp": "2026-03-07T01:43:21+00:00",
+        "human_time": "45m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "There is also a threat of Kh-22/32 cruise missile and Kinzhal hypersonic aeroballistic missile launches for the rest of the night. It is known that at least 3 Tu-22m3 strategic bombers are equipped with Kh-22/32s, and 2-6 MiG-31K fighters with Kinzhals.",
+        "link": "https://t.me/AMK_Mapping/25642",
+        "timestamp": "2026-03-07T01:42:38+00:00",
+        "human_time": "46m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Here's the missile paths so far. If any Kalibrs were launched, they should be detected in Ukrainian airspace in the next 10 minutes, but like I said, I don't think anything was actually launched.",
+        "link": "https://t.me/AMK_Mapping/25641",
+        "timestamp": "2026-03-07T01:41:42+00:00",
+        "human_time": "47m ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇱🇧 ❌ 🇮🇱 — Rocket alert in Kfar Yuval, Galilee Panhandle, northern Israel.",
+        "link": "https://t.me/tabzlive/72499",
+        "timestamp": "2026-03-07T01:41:28+00:00",
+        "human_time": "47m ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇺🇸 🇰🇼 🇮🇷 ⚡️ — President Trump announces he will attend a memorial service at Dover Air Force Base on Saturday for the U.S. servicemen killed by an Iranian strike in Kuwait.",
+        "link": "https://t.me/tabzlive/72498",
+        "timestamp": "2026-03-07T01:39:55+00:00",
+        "human_time": "49m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Rocket alerts in northern Israel",
+        "link": "https://t.me/AMK_Mapping/25640",
+        "timestamp": "2026-03-07T01:39:28+00:00",
+        "human_time": "49m ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇷🇺 🇺🇸 - Reportedly, Russian government estimates that Ukraine won't get new Patriot missiles anytime soon - perhaps ever - after the US is forced to use so many against Iranian drones. It will take years for the US military industry to compensate for Patriot missiles used in the ongoing war effort against Iran.",
+        "link": "https://t.me/eurointel/23080",
+        "timestamp": "2026-03-07T01:35:40+00:00",
+        "human_time": "53m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇺🇸 BREAKING! USS George H.W. Bush is deploying to the eastern Mediterranean, according to Fox News. If confirmed, this would place three U.S. carrier strike groups in the region. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176050",
+        "timestamp": "2026-03-07T01:34:19+00:00",
+        "human_time": "54m ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇺🇸 ❌ 🇮🇷 — BREAKING: The USS George H.W. Bush (CVN-77) has completed its workups off the coast of Cape Hatteras and is expected to deploy soon to the eastern Mediterranean, according to Fox News. ➡️ This will be the third carrier strike group deployed to the Middle East.",
+        "link": "https://t.me/tabzlive/72497",
+        "timestamp": "2026-03-07T01:32:21+00:00",
+        "human_time": "56m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Possible repeated launches of Kalibrs from the Black Sea. This is unconfirmed and I have my doubts, but we will see.",
+        "link": "https://t.me/AMK_Mapping/25639",
+        "timestamp": "2026-03-07T01:26:01+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇸🇦 🇮🇷 ⚡️ — The Saudi Ministry of Defense announced the interception and destruction of six drones over the Empty Quarter that attempted to attack the Shaybah oil field.",
+        "link": "https://t.me/tabzlive/72496",
+        "timestamp": "2026-03-07T01:25:51+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Ukrainian airspace is now clear of missiles.",
+        "link": "https://t.me/AMK_Mapping/25638",
+        "timestamp": "2026-03-07T01:24:29+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "Undoubtedly, Calvin Klein are thrilled about their brand being exposed like this.",
+        "link": "https://t.me/eurointel/23079",
+        "timestamp": "2026-03-07T01:24:22+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Disappeared. Might be flying low.",
+        "link": "https://t.me/AMK_Mapping/25637",
+        "timestamp": "2026-03-07T01:24:21+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Fire in Kiev after ballistic strikes. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176048",
+        "timestamp": "2026-03-07T01:23:32+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The last 4 missiles (2 pairs) changed course to the southwest, flying towards Novodnistrovsk HPP.",
+        "link": "https://t.me/AMK_Mapping/25636",
+        "timestamp": "2026-03-07T01:22:30+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The last 4 missiles (2 pairs) changed course to the southwest, flying towards Novodnistrovsk HPP.",
+        "link": "https://t.me/AMK_Mapping/25635",
+        "timestamp": "2026-03-07T01:22:21+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇺🇸 🇮🇷 ⚡️ - BREAKING: The USS George H.W. Bush is deploying to the eastern Mediterranean. This will be the third CSG in the region for the Iran war, according to Fox.",
+        "link": "https://t.me/rnintel/55349",
+        "timestamp": "2026-03-07T01:20:58+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Approximate movements:",
+        "link": "https://t.me/AMK_Mapping/25634",
+        "timestamp": "2026-03-07T01:18:34+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The other 2 pairs of Kalibrs looks to be flying to Ladyzhyn too. Clarifying.",
+        "link": "https://t.me/AMK_Mapping/25633",
+        "timestamp": "2026-03-07T01:17:47+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The other 2 pairs of Kalibrs looks to be flying to Ladyzhyn too. Clarifying.",
+        "link": "https://t.me/AMK_Mapping/25630",
+        "timestamp": "2026-03-07T01:16:53+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Explosions in Ladyzhyn, Vinnytsia Oblast. 4 Kalibrs just impacted the Ladyzhyn Thermal Power Plant.",
+        "link": "https://t.me/AMK_Mapping/25629",
+        "timestamp": "2026-03-07T01:16:15+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Voltage surges in Kyiv after the Iskander-M ballistic missile strikes on the CHP-6 combined heat and power plant earlier.",
+        "link": "https://t.me/AMK_Mapping/25628",
+        "timestamp": "2026-03-07T01:15:17+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "2 pairs of Kalibrs changed course to the northwest, flying past Uman, Cherkasy Oblast, towards Haisyn, Vinnytsia Oblast.",
+        "link": "https://t.me/AMK_Mapping/25627",
+        "timestamp": "2026-03-07T01:13:55+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "2 pairs of Kalibrs are flying south of Bershad, Vinnytsia Oblast, towards Novodnistrovsk, Chernivtsi Oblast. 2 more pairs of Kalibrs are flying west through Kirovohrad Oblast.",
+        "link": "https://t.me/AMK_Mapping/25626",
+        "timestamp": "2026-03-07T01:12:27+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇺🇸 🇷🇺 - Hegseth told that he doesn't care about reports that Russia and Iran exchange intel.",
+        "link": "https://t.me/eurointel/23077",
+        "timestamp": "2026-03-07T01:09:32+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Kalibr cruise missiles flew to Chernovtsi region where explosions were reported in Novodnestrovsk. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176045",
+        "timestamp": "2026-03-07T01:07:49+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Yep I was right. They are strking the Novodnistrovsk Hyrdoelectric power plant.",
+        "link": "https://t.me/AMK_Mapping/25625",
+        "timestamp": "2026-03-07T01:07:06+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "More Kalibr impacts in Novodnistrovsk, Chernivtsi Oblast.",
+        "link": "https://t.me/AMK_Mapping/25624",
+        "timestamp": "2026-03-07T01:06:30+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Kalibr cruise missiles flew to Chernovtsi region where explosions were reported in Novodnestrovsk. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176044",
+        "timestamp": "2026-03-07T01:06:13+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Meanwhile, Kyiv likely wont be attacked by any more Iskanders. But the threat remains.",
+        "link": "https://t.me/AMK_Mapping/25623",
+        "timestamp": "2026-03-07T01:05:56+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Updated movements. 2 more Kalibrs were shot down over Vinnytsia Oblast.",
+        "link": "https://t.me/AMK_Mapping/25622",
+        "timestamp": "2026-03-07T01:05:07+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Explosions in Novodnistrovsk, Chernivtsi Oblast. They may be targeting the Hydroelectric power plant there.",
+        "link": "https://t.me/AMK_Mapping/25621",
+        "timestamp": "2026-03-07T01:03:26+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Explosions in Novodnistrovsk, Chernivtsi Oblast. They may be targeting the Hydroelectric power plant there.",
+        "link": "https://t.me/AMK_Mapping/25620",
+        "timestamp": "2026-03-07T01:03:02+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "⚡️ 🇱🇧 🇮🇱 The alleged IDF operation has seemingly failed. After 6 hours of intense jet activity….calm has been restored in the Bekaa valley. @wfwitness",
+        "link": "https://t.me/AMK_Mapping/25619",
+        "timestamp": "2026-03-07T01:02:34+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "⚡️ 🇸🇦 🇮🇷 The spokesperson for the Saudi Ministry of Defense stated that they have intercepted a ballistic missile launched toward Prince Sultan Air Base. @wfwitness",
+        "link": "https://t.me/AMK_Mapping/25618",
+        "timestamp": "2026-03-07T01:02:27+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "3 pairs of Kalibrs are approaching Novodnistrovs'k, Chernivtsi Oblast. 4 more pairs are following behind. 2 pairs are now flying towards Pomichna, Kirovohrad Oblast. 2 other pairs are following behind.",
+        "link": "https://t.me/AMK_Mapping/25617",
+        "timestamp": "2026-03-07T01:01:28+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The missiles in Vinnytsia Oblast have changed course towards Novodnistrovs'k, Chernivtsi Oblast.",
+        "link": "https://t.me/AMK_Mapping/25616",
+        "timestamp": "2026-03-07T00:59:39+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "3 pairs of Kalibrs are flying towards southern Khmelnytskyi Oblast. 4 pairs are following behind, but haven't shifted northwest yet. 2 pairs changed course towards Novoukrainka, Kirovohrad Oblast. 2 pairs are following behind the first 2.",
+        "link": "https://t.me/AMK_Mapping/25615",
+        "timestamp": "2026-03-07T00:56:38+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇮🇷 🇮🇶 ⚡️ - Explosions in Erbil, Iraqi Kurdistan.",
+        "link": "https://t.me/rnintel/55348",
+        "timestamp": "2026-03-07T00:56:03+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇮🇷 - Reportedly, head of the Iranian Quds forces (IRGC's special forces), general Esmail Qaani, was arrested and executed because of his alleged work for Mossad.",
+        "link": "https://t.me/eurointel/23076",
+        "timestamp": "2026-03-07T00:55:32+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "A total of 24 Kalibr cruise missiles have been launched: - 8 from an Admiral Makarov frigate. - 8 from an Admiral Essen frigate. - 8 from a Varashvyanka Submarine.",
+        "link": "https://t.me/AMK_Mapping/25614",
+        "timestamp": "2026-03-07T00:54:00+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "3 pairs of Kalibrs are flying west towards southern Chernivtsi Oblast. 4 pairs are following behind, entering Vinnytsia Oblast. 2 pairs are flying towards Bashtanka, Mykolaiv Oblast - not Snihurivka. 2 new pairs have entered Kherson Oblast, following behind the first two.",
+        "link": "https://t.me/AMK_Mapping/25613",
+        "timestamp": "2026-03-07T00:52:37+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Updated movements: 2 new pairs are flying towards Snihurivka, Mykolaiv Oblast on a northwestern course. These were launched by a Varashvyanka submarine.",
+        "link": "https://t.me/AMK_Mapping/25612",
+        "timestamp": "2026-03-07T00:49:56+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "New Kalibrs entering Kherson Oblast",
+        "link": "https://t.me/AMK_Mapping/25611",
+        "timestamp": "2026-03-07T00:48:02+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "All missiles have changed course to the west, flying towards/through southern Vinnytsia Oblast.",
+        "link": "https://t.me/AMK_Mapping/25610",
+        "timestamp": "2026-03-07T00:47:38+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 ❗️ 🇺🇦 7-10 Kalibr cruise missiles in Ukrainian airspace according to various local channels. Headed west. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176039",
+        "timestamp": "2026-03-07T00:47:22+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "3 pairs of Kalibrs are flying towards Teplyk, Vinnytsia Oblast from western Kirovohrad Oblast. 4 pairs continue to follow behind.",
+        "link": "https://t.me/AMK_Mapping/25609",
+        "timestamp": "2026-03-07T00:46:04+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Massive fire in Odessa. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176038",
+        "timestamp": "2026-03-07T00:46:01+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Kharkov 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176037",
+        "timestamp": "2026-03-07T00:45:17+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇸🇦 There are reports of a drone attack on a US base in Saudi Arabia. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176036",
+        "timestamp": "2026-03-07T00:44:04+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "🇮🇱 ❌ 🇱🇧 — IDF imposes complete censorship on the event in Lebanon.",
+        "link": "https://t.me/AMK_Mapping/25608",
+        "timestamp": "2026-03-07T00:43:15+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇺🇸 🐊 ⚡️ - Florida Gubernatorial candidate Byron Donalds, who is endorsed by Trump, admits to selling weed as a teenager. An accusation levied at him by James Fishback.",
+        "link": "https://t.me/rnintel/55346",
+        "timestamp": "2026-03-07T00:42:38+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "2 Kalibrs have been shot down.",
+        "link": "https://t.me/AMK_Mapping/25607",
+        "timestamp": "2026-03-07T00:41:23+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Massive fire in Odessa. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176034",
+        "timestamp": "2026-03-07T00:40:53+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "4 pairs of Kalibrs are flying towards Uman, Cherkasy Oblast. 4 pairs flew past Novoukrainka, Kirovohrad Oblast, repeating the course.",
+        "link": "https://t.me/AMK_Mapping/25606",
+        "timestamp": "2026-03-07T00:40:47+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇱 Israeli journalist and writer Yossi Melman, former Haaretz correspondent on intelligence and strategic affairs, does not buy the Epstein Coalition propaganda. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176033",
+        "timestamp": "2026-03-07T00:39:26+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Corrected movements:",
+        "link": "https://t.me/AMK_Mapping/25605",
+        "timestamp": "2026-03-07T00:37:04+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💬 🇺🇦 Power outages are being reported in Kiev and the surrounding region. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176032",
+        "timestamp": "2026-03-07T00:34:21+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "16 Kalibrs were launched. They are flying in 8 pairs to/through Novoukrainka, Kirovohrad Oblast on a northwestern course. These were launched from the Admiral Essen and Admiral Makarov frigates that I wrote about being equipped at Novorossiysk Naval Base 3 days ago. No submarines have launched missiles, contrary to reports.",
+        "link": "https://t.me/AMK_Mapping/25604",
+        "timestamp": "2026-03-07T00:34:18+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇧🇭 Air raid alert in Bahrain. 🚨 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176031",
+        "timestamp": "2026-03-07T00:32:40+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Kiev was hit by ballistic missiles again. Meanwhile in the south, Kalibr cruise missiles reportedly entered Ukrainian airspace. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176029",
+        "timestamp": "2026-03-07T00:28:27+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Kiev was hit by ballistic missiles again. Meanwhile in the south, Kalibr cruise missiles reportedly entered Ukrainian airspace. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176028",
+        "timestamp": "2026-03-07T00:27:09+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇱🇧 🇱🇧 ❌ 🇮🇱 — Hezbollah's Radwan Force and IDF troops are clashing in the town of Khiam, southern Lebanon, MTV Lebanon reports.",
+        "link": "https://t.me/rnintel/55345",
+        "timestamp": "2026-03-07T00:26:15+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇱🇧 🇱🇧 ❌ 🇮🇱 — Clashes have also erupted between the IDF and Hezbollah in the town of Khiam, southern Lebanon.",
+        "link": "https://t.me/tabzlive/72489",
+        "timestamp": "2026-03-07T00:26:03+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇱🇧 🇱🇧 ❌ 🇮🇱 — Footage from the clashes in the Bekaa Valley, eastern Lebanon, shows something being downed in the airspace, though it's not clear what was downed.",
+        "link": "https://t.me/tabzlive/72488",
+        "timestamp": "2026-03-07T00:24:03+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇺🇸 🇮🇱 🇮🇷 Israeli media: A difficult night in the Middle East. Many more nights like this are coming, patience is required. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176027",
+        "timestamp": "2026-03-07T00:23:40+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 A strike was carried out in the Priluki district of Chernigov region. Another strike reported in Odessa as well. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176026",
+        "timestamp": "2026-03-07T00:22:46+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@Ukraine_Watch",
+        "content": "🔘 🇮🇷 🔘 Sardar Shekarchi, representative of the General Staff of the Armed Forces: We do not pose a threat to neighboring countries ❌ The peoples of the Muslim region are a united Ummah, and the Islamic Republic of Iran has never sought to harm the sovereignty of neighboring countries . The United States and the Zionist regime have tried to present Iran as a threat to these countries, while we pose a threat only to them. #News #MiddleEast #Iran #USA 🔘 Subscribe now! Chat",
+        "link": "https://t.me/ukraine_watch/57255",
+        "timestamp": "2026-03-07T00:22:01+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 ⚔️ 🇮🇱 Preliminary reports say Israeli helicopters failed to extract the surrounded IOF airborne troops. Hezbollah fighters reportedly struck the building with six RPGs, setting the third floor on fire. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176025",
+        "timestamp": "2026-03-07T00:21:10+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇺🇸 - Joe Biden bragged that he forgot more about Putin and Xi than whatever many people know about them.",
+        "link": "https://t.me/eurointel/23074",
+        "timestamp": "2026-03-07T00:20:23+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇺🇸 🇮🇷 ⚡️ - BREAKING: President Trump has privately shown serious interest in U.S. ground troops in Iran, According to an NBC News exclusive.",
+        "link": "https://t.me/eurointel/23073",
+        "timestamp": "2026-03-07T00:19:06+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Katyusha having a sleepless night in Kharkov. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176024",
+        "timestamp": "2026-03-07T00:17:36+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇮🇱 🇮🇷 Israel has carried out an attack on the airport in Tehran.",
+        "link": "https://t.me/eurointel/23072",
+        "timestamp": "2026-03-07T00:16:37+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇸🇦 🇮🇷 ⚡️ — The Saudi Ministry of Defense announced the interception and destruction of six drones over the Empty Quarter that attempted to attack the Shaybah oil field.",
+        "link": "https://t.me/tabzlive/72487",
+        "timestamp": "2026-03-07T00:16:24+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 A strike was carried out in the Shepetovka district of Khmelnitsky region. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176023",
+        "timestamp": "2026-03-07T00:15:57+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇸🇦 🇮🇷 ⚡️ — The Saudi Ministry of Defense announced the interception and destruction of six drones over the Empty Quarter that attempted to attack the Shaybah oil field.",
+        "link": "https://t.me/tabzlive/72486",
+        "timestamp": "2026-03-07T00:15:44+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 ⚔️ 🇮🇱 Preliminary reports say Israeli helicopters failed to extract the surrounded IOF airborne troops. Hezbollah fighters reportedly struck the building with six RPGs, setting the third floor on fire. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176022",
+        "timestamp": "2026-03-07T00:14:59+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Massive fire in Odessa after a strike. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176021",
+        "timestamp": "2026-03-07T00:13:32+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇸🇦 There are reports of a drone attack on a US base in Saudi Arabia. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176020",
+        "timestamp": "2026-03-07T00:12:30+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇸🇾 🇮🇱 Intense clashes are currently ongoing between the Suwayda National Guard and the forces of the Syrian Interim Government in much of the western part of Suwayda Governorate. Israeli planes are also flying at low altitudes, likely as a way to send a message to the Syrian government forces.",
+        "link": "https://t.me/eurointel/23071",
+        "timestamp": "2026-03-07T00:11:10+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇱🇧 🇮🇱 There are also reports that Hezbollah's anti-tank guided missile just targeted an Israeli tank position across the border in Margaliot, northern Israel.",
+        "link": "https://t.me/eurointel/23070",
+        "timestamp": "2026-03-07T00:09:45+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🌟 ⚡️ 🇮🇱 The disappearance of helicopter sounds in the Breit area and the cessation of clashes, while military aircraft continue to fly intensively.",
+        "link": "https://t.me/DDGeopolitics/176019",
+        "timestamp": "2026-03-07T00:06:12+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇱🇧 🇮🇱 ⚡️ - Initial reports of confrontations in Margaliot, northern Israel, and Khiam, southern Lebanon.",
+        "link": "https://t.me/rnintel/55344",
+        "timestamp": "2026-03-07T00:06:12+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "The Beqaa Valley lies north of the Litani River, outside the area agreed upon for the withdrawal of Lebanese forces. In addition, the Lebanese army has become increasingly concerned about the build-up of STG troops on the border with Syria.",
+        "link": "https://t.me/DDGeopolitics/176018",
+        "timestamp": "2026-03-07T00:05:06+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 ⚔️ 🇮🇱 Hezbollah reportedly struck a Merkava tank in the Margaliot area with a Kornet ATGM. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176015",
+        "timestamp": "2026-03-06T23:59:59+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇱🇧 🇮🇱 Israeli media: Our forces are trying to withdraw after Hezbollah forces revealed their military activity in eastern Lebanon. ℹ️ Picture is AI translated. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176014",
+        "timestamp": "2026-03-06T23:57:45+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇱🇧 🇱🇧 ❌ 🇮🇱 — Clashes have also erupted between the IDF and Hezbollah in the town of Khiam, southern Lebanon.",
+        "link": "https://t.me/tabzlive/72480",
+        "timestamp": "2026-03-06T23:56:03+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Odessa port area. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176012",
+        "timestamp": "2026-03-06T23:55:37+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Kiev! 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176011",
+        "timestamp": "2026-03-06T23:55:15+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Explosions in Kharkov. Repeated explosions in Kiev! 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176010",
+        "timestamp": "2026-03-06T23:53:30+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 ⚔️ 🇮🇱 Israeli media report a \"difficult security situation\" in Lebanon, after reports emerged that Hezbollah’s Radwan unit disrupted an airborne landing. Unverified reports suggest that the Israeli airborne is having a really bad time. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176007",
+        "timestamp": "2026-03-06T23:47:01+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Ballistic missile strikes in Kiev! 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176006",
+        "timestamp": "2026-03-06T23:44:28+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇷🇺 🇺🇦 A large missile attack on Ukraine is underway.",
+        "link": "https://t.me/eurointel/23067",
+        "timestamp": "2026-03-06T23:44:11+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇷🇺 🇺🇦 Drone strike in Odessa port area, a fire has started.",
+        "link": "https://t.me/eurointel/23066",
+        "timestamp": "2026-03-06T23:43:48+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇱🇧 🇮🇱 ⚡️ - \"A difficult security event in Lebanon.\" - Israeli media.",
+        "link": "https://t.me/rnintel/55342",
+        "timestamp": "2026-03-06T23:42:43+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 🛸 💥 🇺🇦 Drone strike in Odessa port area, a fire has started. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176005",
+        "timestamp": "2026-03-06T23:42:32+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@Ukraine_Watch",
+        "content": "⚡️ ⚡️ ⚡️ Due to temporary global oil shortage, we can lift sanctions on Russian oil, - US Treasury 😂 Everything is going according to plan 🔘 Subscribe now! Chat",
+        "link": "https://t.me/ukraine_watch/57254",
+        "timestamp": "2026-03-06T23:42:01+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇺🇸 ❌ 🇮🇷 — U.S. Central Command: First the Iranian regime claimed and re-claimed (five days in a row) that it sank USS Abraham Lincoln (CVN 72). Now, the regime claims the aircraft carrier has miraculously resurfaced and \"left the battlefield\" after \"encountering Iranian missiles and drones.\" NEED WE SAY MORE?",
+        "link": "https://t.me/tabzlive/72475",
+        "timestamp": "2026-03-06T23:37:55+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇮🇱 🇱🇧 Heavy fighting is taking place in Nabi Sheet, Bekaa, Israeli commandos are completely surrounded.",
+        "link": "https://t.me/eurointel/23065",
+        "timestamp": "2026-03-06T23:35:52+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇮🇱 🇱🇧 Hezbollah reportedly thwarted an Israeli air landing attempt in the Bekaa region Fighting is currently ongoing.",
+        "link": "https://t.me/eurointel/23063",
+        "timestamp": "2026-03-06T23:34:36+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
         "content": "There is a high threat of repeated launches to Kyiv from now onwards.",
         "link": "https://t.me/AMK_Mapping/25531",
         "timestamp": "2026-03-06T23:34:02+00:00",
@@ -31939,6 +32919,265 @@
         "link": "https://t.me/bellingcat/1",
         "post_id": 1,
         "timestamp": "2017-06-05T20:48:53+00:00"
+    },
+    {
+        "source": "TG/@milinfolive",
+        "content": "Израильские военные предприняли высадку тактического десанта с вертолётов в долине Бекаа на юге Ливана. В ходе высадки вертолёты попали под обстрел боевиков «Хезболлы». #Хезболла Военный Осведомитель",
+        "link": "https://t.me/milinfolive/167941",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇶 🇺🇸 US Air Defense activity in Erbil. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176042",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇶 🇺🇸 Footage shows the moment a missile reportedly struck the U.S. Al-Harir base in Erbil, northern Iraq. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176046",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Various Ukrainian channels report that Kalibr missiles struck the town of Ladyzhin in Vinnitsa region. The city hosts the Ladyzhin thermal power plant. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176047",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇺🇸 BREAKING! USS George H.W. Bush is deploying to the eastern Mediterranean, according to Fox News. If confirmed, this would place three U.S. carrier strike groups in the region. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176049",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 🇮🇱 Mossad-linked analyst on Iran International, the Saudi-funded, London-based opposition channel, reveals the Zionist plan to divide Iran on live TV: \"Kurdish groups in western Iran may begin operations starting in March.\" The strategy is to use separatist violence to disperse regime forces, making it easier for protests in major cities. To initiate a \"complete overthrow of the Islamic Republic.\" 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176051",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇶 🇮🇶 \"We can fight America not only in Iraq...\" Abu Alaa al-Walai, leader of Kata'ib Sayyid al-Shuhada, in 2021: \"We are present near every American base. We have sworn solemn oaths. All resistance factions are moving toward the response operation.\" They were warned. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176061",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 Radwan hype video for a little break. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176030",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Fire in Kiev after a strike. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176035",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇺🇸 \"We're tracking everything. Our commanders are aware of everything. We have the best intelligence in the world. We're aware of who's talking to who, why they're talking to them, how accurate that information might be, and how we factor that into our battle plans. Our CENTCOM commander knows what's going on.\" - Brother Hegsethius the Holy Influencer, on the news that Russia is providing intelligence to Iran. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176040",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 ⚔️ 🇮🇱 Reports that IOF paratroopers have been captured by Hezbollah's Al-Radwan forces in the Bekaa. In footage from Nabi Cheit, the person recording can be heard shouting: \"They got him, they got him — look, they're here!\" The IDF has imposed a strict censorship order on the operation. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176041",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 ⚔️ 🇮🇱 BREAKING! According to multiple sources, Hezbollah disrupted an Israeli airborne landing attempt in Lebanon’s Bekaa Valley. A firefight is ongoing. Reports say IDF special forces are surrounded by Hezbollah’s Radwan unit near the town of Nabi-Shit. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176001",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Ballistic missile strikes in Kiev! 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176004",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 ⚔️ 🇮🇱 Israeli media report a \"difficult security situation\" in Lebanon, after reports emerged that Hezbollah’s Radwan unit disrupted an airborne landing. Unverified reports suggest that the Israeli airborne is having a really bad time. 🔴 @DDGeopolitics…",
+        "link": "https://t.me/DDGeopolitics/176008",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 ⚔️ 🇮🇱 Surveillance footage reportedly shows an Israeli army landing attempt in Lebanon’s Bekaa region, which was met with a well-prepared ambush by Hezbollah’s Radwan forces. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176009",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 💥 🇺🇦 Explosions in Kiev! Ukrainians reports Kalibr cruise missile launches from the Black Sea. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176013",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 ⚔️ 🇮🇱 Fierce fighting as Radwan fighters repel an Israeli airborne landing in Lebanon’s Bekaa Valley. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/176017",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@War_Noir",
+        "content": "#Iran / #USA / #Israel 🇮🇷 🇺🇸 🇮🇱 : Iranian Forces ( #IRGC ) released a new video of their recent missile attacks during Operation True Promise 4. Seemingly IRGC recently launched numerous Medium-Range Ballistic Missiles including “Khaybar Shekan” and “Ghadr / Shahab-3B” missiles. https://x.com/i/status/2030068871806271809",
+        "link": "https://t.me/war_noir/23108",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@War_Noir",
+        "content": "#Iran / #Israel / #USA / #Iraq 🇮🇷 🇮🇱 🇺🇸 🇮🇶 : Iraqi group “Guardians of Blood Brigades” struck the Victory Base in #Baghdad . Group seemingly used Iranian 122mm “Arash-1” artillery rockets launched from a covert Multiple Rocket Launcher hidden in a truck bed. https://x.com/i/status/2030098815584264280",
+        "link": "https://t.me/war_noir/23109",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇮🇱 ❌ 🇮🇷 — Fires are burning at Mehrabad International Airport following Israeli airstrikes.",
+        "link": "https://t.me/tabzlive/72481",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇮🇱 ❌ 🇮🇷 — Crazy footage from tonight's huge Israeli airstrikes on Mehrabad International Airport in Tehran.",
+        "link": "https://t.me/tabzlive/72484",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇮🇱 ❌ 🇮🇷 — Planes are burning at Mehrabad International Airport in Tehran following the large-scale Israeli strikes.",
+        "link": "https://t.me/tabzlive/72490",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇮🇱 ❌ 🇮🇷 — Tehran's skyline is full of smoke following tonight's Israeli airstrikes across the capital.",
+        "link": "https://t.me/tabzlive/72491",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇮🇷 ❌ 🇮🇱 — WATCH: The IRGC Aerospace Force released footage showing the launch of Kheibar Shekan, Emad, and Ghadr ballistic missiles towards Israel in wave 24 of Operation True Promise 4.",
+        "link": "https://t.me/tabzlive/72492",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇮🇶 🌞 🇮🇷 ⚡️ — Three drones have been intercepted in the last 30 minutes over Erbil, Iraq's Kurdistan region.",
+        "link": "https://t.me/tabzlive/72493",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇱🇧 🇱🇧 ❌ 🇮🇱 — BREAKING: Israeli soldiers landed on the Syrian side of the Bekaa Valley via helicopter and crossed into Lebanese territory. ➡️ Hezbollah forces immediately detected the IDF forces and are now clashing with them.",
+        "link": "https://t.me/tabzlive/72476",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇷🇺 🇺🇲 🇮🇷 — Russia is reportedly providing Iran with intelligence to help target U.S. forces, according to WaPo.",
+        "link": "https://t.me/tabzlive/72477",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇺🇸 🇷🇺 🇮🇷 ⚡️ — Secretary of War Pete Hegseth on reports that Russia is providing intelligence to Iran to help it target U.S. assets in the region: We're tracking everything. Our commanders are aware of everything. We have the best intelligence in the world. …",
+        "link": "https://t.me/tabzlive/72478",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@tabzlive",
+        "content": "🇱🇧 🇱🇧 ❌ 🇮🇱 — Heavy clashes between Hezbollah forces and IDF forces in the Bekaa Valley, eastern Lebanon.",
+        "link": "https://t.me/tabzlive/72479",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇮🇱 🇱🇧 Israeli Air Force unit attempted to land in Nabi Chit, eastern Lebanon. Hezbollah is now trying to shoot down Israeli helicopters with anti-aircraft fire.",
+        "link": "https://t.me/eurointel/23064",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇱🇧 🇮🇱 First reports that Hezbollah shot down an Israeli helicopter.",
+        "link": "https://t.me/eurointel/23069",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇮🇷 ❌ 🇮🇱 - Initial reports indicate that Survivor IDF paratroopers have been captured by Hezbollah forces. The person recording the video in the Nabi Cheit area can be heard saying; “They got him, they got him, look they are here!\"",
+        "link": "https://t.me/eurointel/23075",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇺🇸 - 22yo resident of Baton Rouge, Louisiana was arrested after raping a 94yo female so violently that he broke her bones. Apparently, shortly prior to the attack, he was released from custody related to another crime that he allegedly committed.",
+        "link": "https://t.me/eurointel/23078",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇱🇧 🇮🇱 ⚡️ - BREAKING: IDF soldiers landed on the Syrian side of the Bekaa Valley via helicopter. They were attacked by Hezbollah Al-Radwan forces. Significant clashes can be heard and are ongoing.",
+        "link": "https://t.me/rnintel/55343",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇱🇧 🇮🇱 ⚡️ - BREAKING: Initial reports indicate that IDF paratroopers have been captured by Hezbollah Al-Radwan forces. The person recording the video in the Nabi Cheit area can be heard saying, “They got him, they got him, look they are here!\" The IDF has issued a strict censorship and gag order regarding the operation.",
+        "link": "https://t.me/rnintel/55347",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "One of the explosions in Ladyzhyn, Vinnytsia Oblast",
+        "link": "https://t.me/AMK_Mapping/25631",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@Ukraine_Watch",
+        "content": "🚀 🇮🇷 The sky of the Zionist regime is helpless before Iranian missiles 🔘 Subscribe now! Chat",
+        "link": "https://t.me/ukraine_watch/57256",
+        "timestamp": null,
+        "human_time": "Recent"
     },
     {
         "source": "TG/@milinfolive",
