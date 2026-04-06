@@ -1,5 +1,313 @@
 [
     {
+        "source": "TG/@milinfolive",
+        "content": "⚡️ ️️ Тема РЭБ сейчас у всех на слуху, но есть нюанс: большинство решений либо узкоспециализированные, либо требуют сложной интеграции. Мы посмотрели, как это решено в российской модернизированной станции купольного типа «КАПЮШОН» К-8М. И тут есть моменты, на которые действительно стоит обратить внимание. Коротко по сути: — закрытие верхней полусферы на 360° без «слепых зон» — работа по разведывательным и FPV-дронам — установка не только на бронетехнику, но и на гражданский транспорт, спецтехнику и стационарные объекты Обратите внимание на несколько инженерных решений: — как реализовано прерывание канала управления (не просто «глушение», а нарушение устойчивости сигнала) — как обеспечивается стабильность при вибрациях и нагрузках — контроль работоспособности через внешний РЭБ-тестер — работа в автоматическом режиме со станцией обнаружения VPV-дронов «Сигнал-М». ✔️ В видео подробный разбор по частотам, комплектации и реальной логике применения. Если работаете с техникой, автоколоннами или объектами — это тот случай, когда лучше один раз посмотреть и понять, чем собирать информацию по кускам. Смотрите видео разбор 🔗 по ссылке И важный момент. То, чего не хватает в открытых источниках. Автоматическая система РЭБ «КАПЮШОН» К-8 М + «Сигнал М»: конфигурация, параметры и варианты применения - в удобном формате 🔗 тут. Вопросы к разработчику можно задать в канале @npo_kilowatt",
+        "link": "https://t.me/milinfolive/170038",
+        "timestamp": "2026-04-06T06:00:43+00:00",
+        "human_time": "1m ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇺🇸 🇮🇷 - Axios reports that the US and Iran discuss ceasefire for 45 days. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25528",
+        "timestamp": "2026-04-06T05:49:06+00:00",
+        "human_time": "13m ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇷🇺 - Minister of utilities of the Russian region of Krasnoyarsk detained for taking bribes. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25527",
+        "timestamp": "2026-04-06T05:47:31+00:00",
+        "human_time": "14m ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇺🇸 🇯🇵 - US delayed Japan's order for 400 Tomahawk missiles, because the US will need to restock own ammo after the Iran war. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25526",
+        "timestamp": "2026-04-06T05:41:05+00:00",
+        "human_time": "21m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇺🇦 💬 The energy infrastructure of Slavutich has been attacked - about 21,000 subscribers are left without electricity, according to the Kiev Regional State Administration. According to regional authorities, as a result of the attack, some critical facilities have been switched to backup power supply. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180897",
+        "timestamp": "2026-04-06T05:39:57+00:00",
+        "human_time": "22m ago"
+    },
+    {
+        "source": "TG/@OSINTdefender",
+        "content": "#Russia #USA The Spirit-030 is a compact portable satellite terminal designed for two-way broadband internet access via geostationary satellites, featuring a 30 cm antenna and capable of being deployed in 5–10 minutes. It was developed by Russia as a response to losing access to Starlink and is intended for use in frontline conditions. Subscribe to @OSINTdefender Chat room",
+        "link": "https://t.me/OSINTdefender/18450",
+        "timestamp": "2026-04-06T05:30:57+00:00",
+        "human_time": "31m ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇷🇺 🇮🇷 - Odessa-born Russian MP Wasserman openly supported Iran in its conflict with Israel. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25525",
+        "timestamp": "2026-04-06T05:18:02+00:00",
+        "human_time": "44m ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇷🇺 🇺🇦 - 41 miners stuck underground in the separatist Luhansk People's Republic after a Ukrainian missile strike. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25524",
+        "timestamp": "2026-04-06T05:16:19+00:00",
+        "human_time": "46m ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "The only people worse than those who don't donate to Eurointel are those who don't even repost it. That's free. God will not forgive you for not doing it.",
+        "link": "https://t.me/eurointel/25523",
+        "timestamp": "2026-04-06T05:13:22+00:00",
+        "human_time": "49m ago"
+    },
+    {
+        "source": "TG/@milinfolive",
+        "content": "152-мм самоходная гаубица 2С3 «Акация» из состава группировки войск «Восток» в Запорожской области. Военный Осведомитель",
+        "link": "https://t.me/milinfolive/170032",
+        "timestamp": "2026-04-06T05:12:01+00:00",
+        "human_time": "50m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇺🇦 💬 Ukraine has enough human resources to continue the war for a long time - Ukrainian MP Merezhko In his opinion, the problem is only in \"creating motivation\". 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180895",
+        "timestamp": "2026-04-06T05:10:54+00:00",
+        "human_time": "51m ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇰🇵 - Chairman Kim once again inspected construction of the museum honoring North Korean soldiers who took part in liberation of Russia from Ukraine's invasion [that is how North Koreans call it]. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25522",
+        "timestamp": "2026-04-06T05:06:52+00:00",
+        "human_time": "55m ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇺🇦 💥 Explosions reported in Bucha, Kiev region 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180894",
+        "timestamp": "2026-04-06T05:06:16+00:00",
+        "human_time": "56m ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇲🇻 - The Maldives lost nearly 88-90% of tourists because nearly all the Middle East flights are suspended. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25521",
+        "timestamp": "2026-04-06T05:05:26+00:00",
+        "human_time": "57m ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The ballistic missile was intercepted near the Dead Sea.",
+        "link": "https://t.me/AMK_Mapping/28426",
+        "timestamp": "2026-04-06T05:05:13+00:00",
+        "human_time": "57m ago"
+    },
+    {
+        "source": "TG/@OSINTdefender",
+        "content": "#Iran #Israel #Iraq #USA The US-Israeli plan for a Kurdish invasion of Iran reportedly collapsed due to leaks and distrust, leading to a halt in the operation. This plan aimed to use Kurdish forces to incite a rebellion against the Iranian regime but faced significant challenges before it could be executed. Subscribe to @OSINTdefender Chat room",
+        "link": "https://t.me/OSINTdefender/18449",
+        "timestamp": "2026-04-06T05:04:00+00:00",
+        "human_time": "58m ago"
+    },
+    {
+        "source": "TG/@OSINTdefender",
+        "content": "#Iran #USA The United States and Iran are engaged in discussions for a potential 45-day ceasefire aimed at ending ongoing conflicts, facilitated by regional mediators. The talks involve a two-phase plan, with the first phase focusing on a temporary ceasefire to allow for broader negotiations. Subscribe to @OSINTdefender Chat room",
+        "link": "https://t.me/OSINTdefender/18448",
+        "timestamp": "2026-04-06T05:01:24+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "The ballistic missile was likely launched from northern Iran.",
+        "link": "https://t.me/AMK_Mapping/28425",
+        "timestamp": "2026-04-06T05:01:18+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Interception attempts near the Dead Sea/western Jordan",
+        "link": "https://t.me/AMK_Mapping/28424",
+        "timestamp": "2026-04-06T04:59:56+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇷🇸 🇺🇸 - Head of the Serbian military intelligence claims that labels on the explosives they discovered hidden near the Serbia-Hungary gas pipeline indicate that they were made in the United States of America. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25520",
+        "timestamp": "2026-04-06T04:59:42+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Sirens in southern Israel",
+        "link": "https://t.me/AMK_Mapping/28423",
+        "timestamp": "2026-04-06T04:59:42+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 🇺🇸 Oooof 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180891",
+        "timestamp": "2026-04-06T04:57:58+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Ballistic missile launch from Iran to southern Israel",
+        "link": "https://t.me/AMK_Mapping/28422",
+        "timestamp": "2026-04-06T04:57:45+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "I genuinely love it when people say this and I hope it remains like this forever. American political issues are whether their government of elites should be able to get away with raping kids. Our political issues are why we didn't get our new ferries the government promised.",
+        "link": "https://t.me/AMK_Mapping/28421",
+        "timestamp": "2026-04-06T04:57:14+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇮🇷 🇮🇱 ⚡️ - Iranian missile launches to southern Israel.",
+        "link": "https://t.me/rnintel/58430",
+        "timestamp": "2026-04-06T04:53:59+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Ballistic missile launch from Iran to southern Israel",
+        "link": "https://t.me/AMK_Mapping/28420",
+        "timestamp": "2026-04-06T04:53:35+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇮🇷 🇺🇸 - Iranian embassies worldwide keep attacking the US with brainrot memes and jokes. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25519",
+        "timestamp": "2026-04-06T04:38:54+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇺🇸 🇮🇷 - Iran's embassies in South Africa begin to ridicule Trump for inability to reopen the Strait of Hormuz. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25518",
+        "timestamp": "2026-04-06T04:34:43+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@Ukraine_Watch",
+        "content": "🌚 \"We've lost the keys\" The Iranian Embassy in Zimbabwe ironically responded to Trump's demand to immediately open the strait. 🔘 The diplomatic mission in South Africa joined the joke. Shhh... the key's under the flower pot. Just open for friends. Subscribe now! Chat",
+        "link": "https://t.me/ukraine_watch/58939",
+        "timestamp": "2026-04-06T04:26:22+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🐻 Catch up with the news - here are the key things that happened in the past 24 hours! ➡️ IRGC issues statement on the failed US rescue operation and shares pictures and some more pictures ➡️ Trump makes his most unhinged post (probably yet), Marjorie Taylor Greene reacts to it but this is still the general state of the MAGA cult that should honestly be studied ➡️ Trump says they sent a lot of guns to the Iranian protesters through the Kurds and a bunch of other things - we made a summary for you , we also got another deadline ➡️ Serbian Military Intelligence Chief makes a statement about the discovery of approximately four kilograms of explosives near the international TurkStream gas pipeline. ➡️ Hungary accuses Ukraine and announces the army will take over the protection of the TurkStream gas pipeline section in Hungary from Serbia to Slovakia (here's a statement from Orban too ), and Ukraine, of course, blames Russia ➡️ Israeli firefighter says there is toxic material burning in Haifa , and Tel Aviv was hit ➡️ Tehran Prosecutor conducts a field inspection of food markets on Day 36 of the war ➡️ US Base near Baghdad International Airport was attacked again ➡️ Russia states that the reports about the cancellation of the Victory Parade are false ➡️ US Base near Baghdad International Airport was attacked again ➡️ Syrian Interior Ministry spokesman responds to Syrians storming the UAE embassy in protest ➡️ The Eight countries of OPEC+ decided to increase the oil production limit in May ➡️ Vanilla ISIS meets Stock ISIS ➡️ Epic escape from the TCC in Odessa ➡️ And of course - don't miss our latest show! 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180885",
+        "timestamp": "2026-04-06T04:19:41+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "Please, subscribe to our partner channel. https://t.me/flashpointhq",
+        "link": "https://t.me/eurointel/25517",
+        "timestamp": "2026-04-06T04:18:10+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇦🇪 - In the 1st quarter of 2026, Telegram banned 51% more channels and groups than it did in the same period in 2025. 11.339 million versus 7.505 million. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25516",
+        "timestamp": "2026-04-06T04:14:54+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@eurointel",
+        "content": "🇺🇦 🇹🇷 🇷🇺 - Right prior to his in person meeting with President Zelensky, Turkish President Erdogan held lengthy phone call with President Putin. Subscribe | Tip our admins €1",
+        "link": "https://t.me/eurointel/25515",
+        "timestamp": "2026-04-06T04:13:01+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇮🇷 🇮🇱 ⚡️ - Multiple cluster impact sites in central Israel.",
+        "link": "https://t.me/rnintel/58429",
+        "timestamp": "2026-04-06T04:06:33+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "7 cluster munition impact sites are confirmed. One person was severely injured.",
+        "link": "https://t.me/AMK_Mapping/28419",
+        "timestamp": "2026-04-06T04:06:24+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "7 cluster munition impact sites are confirmed. One person was severely injured.",
+        "link": "https://t.me/AMK_Mapping/28418",
+        "timestamp": "2026-04-06T04:03:50+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 At least SEVEN impacts in Tel Aviv. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180883",
+        "timestamp": "2026-04-06T04:02:37+00:00",
+        "human_time": "1h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇮🇷 🇮🇱 ⚡️ - Iranian missile launches to central Israel.",
+        "link": "https://t.me/rnintel/58427",
+        "timestamp": "2026-04-06T04:02:07+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "At least 4 cluster munitions fell in Tel Aviv and parts of central Israel.",
+        "link": "https://t.me/AMK_Mapping/28416",
+        "timestamp": "2026-04-06T04:01:17+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "GenXGirl on X: Nate Silver published a graphic showing the accounts with the most engagement on X in 2026. He conclude the ecosystem is broken. Let’s look at how many are Pro-Israel. Then u realize the ecosystem is bought & manipulated: - Not organic - Boosted by Algorithm - Boosted by Bots Source. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180882",
+        "timestamp": "2026-04-06T04:00:17+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Sirens in Tel Aviv",
+        "link": "https://t.me/AMK_Mapping/28415",
+        "timestamp": "2026-04-06T03:51:56+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Ballistic missile launch from Iran to central Israel",
+        "link": "https://t.me/AMK_Mapping/28414",
+        "timestamp": "2026-04-06T03:49:36+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@rnintel",
+        "content": "🇮🇷 🇮🇱 ⚡️ - Iranian missile launches to central Israel.",
+        "link": "https://t.me/rnintel/58426",
+        "timestamp": "2026-04-06T03:45:02+00:00",
+        "human_time": "2h ago"
+    },
+    {
+        "source": "TG/@AMK_Mapping",
+        "content": "Ballistic missile launch from Iran to central Israel",
+        "link": "https://t.me/AMK_Mapping/28413",
+        "timestamp": "2026-04-06T03:43:20+00:00",
+        "human_time": "2h ago"
+    },
+    {
         "source": "TG/@tabzlive",
         "content": "🇮🇱 ❌ 🇮🇷 — Israel Defense Forces: A short while ago the IDF completed a wave of strikes on Iranian terror regime targets in Tehran.",
         "link": "https://t.me/tabzlive/78376",
@@ -136183,6 +136491,90 @@
         "link": "https://t.me/bellingcat/1",
         "post_id": 1,
         "timestamp": "2017-06-05T20:48:53+00:00"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 Iranian MP Motamedi Zadeh: \"We face enemies who are bound by no international law. Their law is the law of the jungle. Killing humans, killing children — is completely normal to them, part of their ethics and conduct.\" Iran must respond in a way that is both deterrent and ensures they never threaten this country again. Iran is a nation with over 7,000 years of civilization, and the hope of free people and Muslims worldwide. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180886",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇺🇦 💥 There was a big strike in Odessa last night 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180887",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 Mayor of Karaj confirms the strike on the Karaj bridge was a deliberate double-tap: \"In the first stage, a smaller strike caused partial damage. Two hours later — while people were present and moving across — it was struck again with more than 30 heavy bombs. The intent was nothing other than to cause casualties and kill innocent people.\" All victims were women and children. Not a single military personnel was present. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180888",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇷🇺 🇺🇦 Ukraine reportedly attacked an oil terminal in the port of Novorossiysk 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180889",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 Hojjatoleslam Mahdiyar, Iranian religious and academic expert: \"The Epstein Island scandal was just the tip of the iceberg. 99% of it is underwater. There are dozens — perhaps more — Epstein Islands out there.\" Exposing Epstein only uncovered the supplier. The buyers were never named, and they're still operating. The CIA and Mossad covered it all up. But they now face a world that is waking up. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180890",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 🇮🇶 38 trailers of humanitarian aid have been dispatched to Iran from the Shrine of Hazrat Abbas (AS) in Karbala, following a previous shipment from the Shrine of Imam Hussein (AS). The convoy was prepared on the guidance of Grand Ayatollah Sistani, the most senior Shia cleric in the world, whose religious authority spans hundreds of millions of believers. It was his 2014 fatwa that mobilized the PMF against ISIS. The holiest shrines of Shia Islam are standing steadfast with Iran. 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180896",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@DDGeopolitics",
+        "content": "🇮🇷 International economy expert Salehi: \"What matters more than touching $100 is sustaining it. As of last night, Brent is above $200.\" Iran is institutionalizing the Strait — friendly nations get passage, hostile ones don't. He hints at a quiet diplomatic dimension: if Macron takes a few anti-Trump positions, French ships get through. \"For years they said Iranian officials would flee at the first American shot. Not a single one has fled.\" 🔴 @DDGeopolitics | Socials | Donate | Advertising",
+        "link": "https://t.me/DDGeopolitics/180898",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@War_Noir",
+        "content": "#Iran / #Israel / #USA 🇮🇷 🇮🇱 🇺🇸 : Iranian Forces ( #IRGC ) launched a missile strike and struck multiple locations in #Haifa . IRGC possibly used a single, common “Ghadr / Shahab-3B” Medium-Range Ballistic Missile with a Cluster Warhead. https://x.com/i/status/2041000687413178380",
+        "link": "https://t.me/war_noir/23601",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@War_Noir",
+        "content": "#Iran / #Israel / #USA 🇮🇷 🇮🇱 🇺🇸 : Iranian Forces (#IRGC) launched a missile strike and struck multiple locations in #Haifa. IRGC possibly used a single, common “Ghadr / Shahab-3B” Medium-Range Ballistic Missile with a Cluster Warhead. https://x.com/i/statu…",
+        "link": "https://t.me/war_noir/23604",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@OsintTV",
+        "content": "Khawaja Asif's repeats his threat again \"Dobara aisi harkat Bharat ne koshish ki, toh pehle toh 200 se 250km tak hum gaye thay, is dafa calcutta tak pahuncha kar aayenge\" Seems like PRAJATI is desperate to lose PoK",
+        "link": "https://t.me/OsintTV/41295",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@UkraineNow",
+        "content": "росіяни атакували Одесу: троє людей загинули, серед яких дитина Також 10 людей постраждали, серед них троє дітей. Дві людини перебувають у важкому стані, повідомив очільник МВА Лисак. В одному з районів міста зафіксовано влучання у багатоповерхівку. Серйозні руйнування з п’ятого по третій поверхи. Під завалами можуть перебувати люди. На місці триває рятувальна операція, задіяні всі екстрені та комунальні служби. Також у цьому ж районі зафіксовано влучання у низку приватних будинків. ✅ Ми у WhatsApp | Telegram | Viber",
+        "link": "https://t.me/UkraineNow/80223",
+        "timestamp": null,
+        "human_time": "Recent"
+    },
+    {
+        "source": "TG/@UkraineNow",
+        "content": "Вночі дрони атакували Новоросійськ у Краснодарському краї рф Зафіксовано численні пожежі. Моніторингові канали пишуть, що під ударом був нафтовий портовий термінал «Шесхаріс», зокрема два морських причали. Новоросійськ є одним із головних морських експортних хабів російської нафти - через нього росія відвантажує до 20% від усіх обʼємів. Також у місті внаслідок роботи ППО палала багатоповерхівка. Місцева влада також повідомляє про вісьмох поранених. В аеропорту Краснодара скасували понад 180 авіаерейсів. ✅ Ми у WhatsApp | Telegram | Viber",
+        "link": "https://t.me/UkraineNow/80226",
+        "timestamp": null,
+        "human_time": "Recent"
     },
     {
         "source": "TG/@DDGeopolitics",
